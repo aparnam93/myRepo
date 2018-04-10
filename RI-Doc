@@ -1,0 +1,4 @@
+-------------Reseverd instances monitoring Script-----------
+
+1. Scripts scans for all the active Reserved instances and checks for the expiration date for every RI
+2. If the current date is 30 days prior to the RI expiration date it will provide the RI ID's of expiring instances 
